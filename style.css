@@ -25,6 +25,15 @@ body {
     margin-bottom: 30px;
 }
 
+.sidebar h2 a {
+	color : inherit;
+	font-size: inherit;
+	text-decoration: none;
+
+	padding: 0;
+	display: inline;
+}
+
 .sidebar a {
     display: block;
 
