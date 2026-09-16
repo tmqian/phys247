@@ -71,7 +71,8 @@ section {
 	text-align: left;
 }
 
-.notes th,td{
+.notes th,
+.notes td{
 	padding: 8px 16px;
 }
 
