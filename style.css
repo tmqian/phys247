@@ -62,6 +62,19 @@ section {
     margin-top: 50px;
 }
 
+@media (max-width: 600px){
+	.sidebar {
+		position: static;
+		width: 100%;
+		height: auto;
+	}
+
+	.content {
+		margin-left: 0;
+		padding: 20px;
+	}
+}
+
 /* the following are table classes */
 .psets th{
 	text-align: left;
